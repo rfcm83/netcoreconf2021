@@ -1,7 +1,3 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/openframeworks+visualstudio
-# Edit at https://www.toptal.com/developers/gitignore?templates=openframeworks+visualstudio
-
 ### OpenFrameworks+VisualStudio ###
 # ignore generated binaries
 # but not the data folder
@@ -88,5 +84,3 @@ Desktop.ini
 *.vsp
 *.vspx
 *.sap
-
-# End of https://www.toptal.com/developers/gitignore/api/openframeworks+visualstudio
