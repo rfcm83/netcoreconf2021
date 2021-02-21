@@ -17,10 +17,10 @@
     },
     "variables": {
         "default_location": "[resourceGroup().location]",
-        "connections_azuretables_api": "[concat('/subscriptions/',subscription().subscriptionId, '/providers/Microsoft.Web/locations/', variables('default_location'), '/managedApis/azuretables')]",
-        "connections_twitter_api": "[concat('/subscriptions/',subscription().subscriptionId, '/providers/Microsoft.Web/locations/', variables('default_location'), '/managedApis/twitter')]",
-        "connections_azuretables_externalid": "[concat('/subscriptions/',subscription().subscriptionId, '/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Web/connections/', parameters('connections_azuretables_name'))]",
-        "connections_twitter_externalid": "[concat('/subscriptions/',subscription().subscriptionId, '/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Web/connections/', parameters('connections_twitter_name'))]"
+        "connections_azuretables_api": "[concat('/subscriptions/', subscription().subscriptionId, '/providers/Microsoft.Web/locations/', variables('default_location'), '/managedApis/azuretables')]",
+        "connections_twitter_api": "[concat('/subscriptions/', subscription().subscriptionId, '/providers/Microsoft.Web/locations/', variables('default_location'), '/managedApis/twitter')]",
+        "connections_azuretables_externalid": "[concat('/subscriptions/', subscription().subscriptionId, '/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Web/connections/', parameters('connections_azuretables_name'))]",
+        "connections_twitter_externalid": "[concat('/subscriptions/', subscription().subscriptionId, '/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Web/connections/', parameters('connections_twitter_name'))]"
     },
     "resources": [
         {
