@@ -27,5 +27,5 @@ Soy un apasionado del desarrollo Cloud, en mi tiempo libre me gusta disfrutar de
 
 ## Presentación
 <a href="/Slides/Slides.pdf">
-  ![Slides](/Slides/Cover.png)
+  <img src="/Slides/Cover.png"/>
 </a>
