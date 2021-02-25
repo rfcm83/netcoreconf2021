@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Workflows y automatizaciones con el nuevo servicio en preview de Azure Logic Apps (NetCoreConf 2021)
 
 Bienvenido a mi sesión de la NETCoreConf 2021, esta sesión tratará sobre Workflows y automatizaciones con el nuevo servicio en preview de Azure Logic Apps.
@@ -27,7 +25,7 @@ Azure Logic Apps Preview
 - Requisitos
 
 ## Presentación
-![Slides](/Slides/slides.pdf)
+![Slides](/Slides/Slides.pdf)
 <object data="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf">
         <p>Tu navegador no soporta visualizar documentos PDF. Puedes descargar la presentación desde <a href="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf">aquí</a>.</p>
