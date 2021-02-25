@@ -8,13 +8,14 @@ Soy un apasionado del desarrollo Cloud, en mi tiempo libre me gusta disfrutar de
 
 ## Agenda
 
-Azure Logic Apps
+**Azure Logic Apps**
 - Overview
 - Modelo de facturación
 - Desarrollo
 - Herramientas
 - Ejemplo
-Azure Logic Apps Preview
+
+**Azure Logic Apps Preview**
 - Overview
 - Novedades
 - Stateful y Stateless
@@ -25,9 +26,6 @@ Azure Logic Apps Preview
 - Requisitos
 
 ## Presentación
-![Slides](/Slides/Slides.pdf)
-<object data="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf">
-        <p>Tu navegador no soporta visualizar documentos PDF. Puedes descargar la presentación desde <a href="https://github.com/rfcm83/netcoreconf2021/blob/master/Slides/Slides.pdf">aquí</a>.</p>
-    </embed>
-</object>
+<a href="/Slides/Slides.pdf">
+  ![Slides](/Slides/Cover.png)
+</a>
