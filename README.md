@@ -2,7 +2,7 @@
 
 Bienvenido a mi sesión de la NETCoreConf 2021, esta sesión tratará sobre Workflows y automatizaciones con el nuevo servicio en preview de Azure Logic Apps.
 
-Mi nombre es Raúl Fernández de Córdoba, trabajo en <a href="www.kabel.es" target="_blank">Kabel</a> como Cloud Solutions Architect. En mi día a día, trato de asesorar y definir las mejores estrategias que nos permitan resolver los retos que encontramos en los proyectos.
+Mi nombre es Raúl Fernández de Córdoba, trabajo en <a href="https://www.kabel.es" target="_blank">Kabel</a> como Cloud Solutions Architect. En mi día a día, trato de asesorar y definir las mejores estrategias que nos permitan resolver los retos que encontramos en los proyectos.
 
 Soy un apasionado del desarrollo Cloud, en mi tiempo libre me gusta disfrutar de mi familia, mis amigos, mi moto y de un buen partido de fútbol. Cuando puedo, intento escribir en <a href="https://setvalue.net" target="_blank">https://setvalue.net</a>.
 
